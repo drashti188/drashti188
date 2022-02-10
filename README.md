@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Drashti Vora
 - 👀 I’m interested in UI/UX
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Figma.
 - 💞️ I’m looking to collaborate on UI/UX projects
 - 📫 Mail me drashti.vora02@gmail.com
 
